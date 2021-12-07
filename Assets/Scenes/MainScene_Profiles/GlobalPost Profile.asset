@@ -24,7 +24,7 @@ MonoBehaviour:
     value: 0.5
   color:
     overrideState: 1
-    value: {r: 0, g: 0, b: 0, a: 1}
+    value: {r: 1, g: 1, b: 1, a: 1}
   ambientOnly:
     overrideState: 1
     value: 1
@@ -153,13 +153,13 @@ MonoBehaviour:
     value: 100
   lift:
     overrideState: 1
-    value: {x: 0.76735985, y: 0.82955885, z: 1, w: 0}
+    value: {x: 1, y: 0.9873741, z: 0.9210456, w: 0}
   gamma:
     overrideState: 1
-    value: {x: 0.8092673, y: 0.84482616, z: 1, w: 0}
+    value: {x: 0.9877203, y: 1, z: 0.99841976, w: 0}
   gain:
     overrideState: 1
-    value: {x: 1, y: 0.90985876, z: 0.76913506, w: 0}
+    value: {x: 0.979025, y: 0.941842, z: 1, w: 0}
   masterCurve:
     overrideState: 0
     value:
@@ -1393,7 +1393,7 @@ MonoBehaviour:
   active: 1
   enabled:
     overrideState: 1
-    value: 1
+    value: 0
   intensity:
     overrideState: 1
     value: 35
@@ -1433,7 +1433,7 @@ MonoBehaviour:
     value: 0
   color:
     overrideState: 1
-    value: {r: 0, g: 0, b: 0, a: 1}
+    value: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
   center:
     overrideState: 1
     value: {x: 0.5, y: 0.5}
@@ -1474,7 +1474,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 2.5
+    value: 1
   threshold:
     overrideState: 1
     value: 0.75
