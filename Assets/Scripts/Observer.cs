@@ -6,6 +6,7 @@ public class Observer : MonoBehaviour
 {
     public Transform player;
     public GameEnding gameEnding;
+    public AudioClip Audio;
 
     bool m_IsPlayerInRange;
 
